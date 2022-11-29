@@ -1,0 +1,14 @@
+body{
+    background-color: #0E151B;
+}
+
+nav {
+    background-color: #0E151B;
+}
+
+a:hover {
+    border: 2px solid #0d6efd;
+    box-shadow: #0d6efd 0px 0px 12px 1px inset,
+                #0d6efd 0px 0px 12px 1px;
+    border-radius: 15px;
+}
