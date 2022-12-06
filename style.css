@@ -1,14 +1,16 @@
 body{
-    background-color: #0E151B;
+    background-color: #10171e;
 }
 
 nav {
-    background-color: #0E151B;
+    background-color: #10171e;
 }
-
-a:hover {
-    border: 2px solid #0d6efd;
-    box-shadow: #0d6efd 0px 0px 12px 1px inset,
-                #0d6efd 0px 0px 12px 1px;
-    border-radius: 15px;
+#co1{
+    color: #0d6efd;
+}
+#co2{
+    color: #ffffff;
+}
+#te1{
+    font-size-adjust: 0.58;
 }
