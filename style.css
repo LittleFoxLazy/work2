@@ -2,7 +2,7 @@ body{
     background-color: #10171e;
 }
 
-nav {
+#N1 {
     background-color: #10171e;
 }
 #co1{
@@ -10,6 +10,9 @@ nav {
 }
 #co2{
     color: #ffffff;
+}
+#co2{
+    color: #3d8bff;
 }
 #te1{
     font-size-adjust: 0.58;
